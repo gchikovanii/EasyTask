@@ -1,5 +1,5 @@
-# Easy Task 
-# Angular ToDo Task Application
+# Easy Task - ToDo Task Application
+
 # Overview
 This Angular application is designed to manage a simple ToDo list. It allows users to add and delete tasks while demonstrating modern Angular practices, including the use of services, components, decorators, pipes, and signal Inputs. The project follows to the DRY (Don't Repeat Yourself) principle and separation of concerns to ensure clean and maintainable code.
 
